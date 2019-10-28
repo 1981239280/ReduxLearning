@@ -18,4 +18,4 @@ render中从props中引入方法以及变量，声明propsType限制组件的pro
 
 store.js
 
-连上reducer
+引入所有reducer，create Store With Middleware
